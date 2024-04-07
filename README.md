@@ -2,7 +2,7 @@
 Autonomous surface vehicle powered by an Arduino featuring a radio-based telemetry system and waypoint tracking
 
 ## About The Project 
-In this project, I developed a long range autonomous boat that can track GPS waypoints. In addition, I incorporated a robust telemetry system that transmits realtime data from the boat to the ground station which is displayed on a Python based GUI. An image of the boat is attached below.  
+In this project, I developed a long range autonomous boat that can track GPS waypoints. In addition, I incorporated a robust telemetry system that transmits realtime data from the boat to the ground station which is displayed on a Python based GUI. 
 
 ## Getting Started
 ### Prerequisites
