@@ -36,21 +36,4 @@ Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
 ## Contact
 Kousheek Chakraborty - kousheekc@gmail.com
 
-Project Link: [https://github.com/kousheekc/Interactive-Visual-Sorting-Algorithms](https://github.com/kousheekc/Interactive-Visual-Sorting-Algorithms)
-
-
-<!-- ### Random BST
-
-<img src="media/unbalanced.png" width=640>
-
-### Balanced BST
-
-<img src="media/balanced.png" width=640>
-
-### Sorting an array of length 20 using bubble sort
-
-<img src="media/sorting.gif">
-
-### Dark mode
-
-<img src="media/dark_color_scheme.png" width=640> -->
+Project Link: [https://github.com/kousheekc/Long-Range-Autonomous-Surface-Vehicle](https://github.com/kousheekc/Long-Range-Autonomous-Surface-Vehicle)
